@@ -8,6 +8,9 @@
 # more stuff
 # more stuff
 : "${__is_submenu:=0}" "${__is_fzf_preview:=0}"
+# some useless comments
+# some useless comments
+# some useless comments
 
 # versioning system:
 # major.minor.bugs
