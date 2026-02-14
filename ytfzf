@@ -1,9 +1,9 @@
 #!/usr/bin/env sh
 
-# stuff
-# stuff
-# stuff
-# sstate variables
+# state variabless
+# and stuff
+# and stuff
+# and stuff
 : "${__is_submenu:=0}" "${__is_fzf_preview:=0}"
 
 # versioning system:
