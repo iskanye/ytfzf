@@ -1,6 +1,7 @@
 #!/usr/bin/env sh
 
 # stuff
+# stuff
 # sstate variables
 : "${__is_submenu:=0}" "${__is_fzf_preview:=0}"
 
