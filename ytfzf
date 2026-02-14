@@ -4,6 +4,7 @@
 # and stuff
 # and stuff
 # and stuff
+# more stuff
 : "${__is_submenu:=0}" "${__is_fzf_preview:=0}"
 
 # versioning system:
